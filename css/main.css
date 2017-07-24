@@ -1,0 +1,19 @@
+h1{
+	text-align: center;
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+}
+
+#eliotdiv{
+  display: flex;
+  justify-content: center;
+}
+
+img{
+	height: 50%;
+	width: 50%;
+}
+
